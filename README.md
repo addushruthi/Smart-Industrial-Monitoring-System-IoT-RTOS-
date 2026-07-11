@@ -44,28 +44,38 @@ communication → IoT simulation
 # Example (modify based on your code)
 python main.py
 
+---
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
+
 Understanding of RTOS in real-world systems
 IoT system architecture basics
 Multitasking and scheduling concepts
 Embedded system design thinking
 
+---
 
-💼 Applications
+## 💼 Applications
 Smart factories
 Industrial automation
 Predictive maintenance systems
 Remote monitoring systems
-🔥 Future Improvements
+
+---
+
+## 🔥 Future Improvements
 Add cloud integration (MQTT / Firebase)
 Real hardware sensor integration
 Dashboard visualization
 Alert system implementation
 
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Shruthi addu
+
+---
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
 
